@@ -1,0 +1,412 @@
+﻿[Script Info]
+Title: [Erai-raws] Español (América Latina)
+ScaledBorderAndShadow: yes
+
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 640
+PlayResY: 360
+Timer: 0.0000
+WrapStyle: 0
+
+[V4+ Styles]
+Format: Name,Fontname,Fontsize,PrimaryColour,SecondaryColour,OutlineColour,BackColour,Bold,Italic,Underline,Strikeout,ScaleX,ScaleY,Spacing,Angle,BorderStyle,Outline,Shadow,Alignment,MarginL,MarginR,MarginV,Encoding
+Style: Gen_Main,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,1
+Style: Gen_Italics,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,1
+Style: Gen_Main_Up,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00090909,0,0,0,0,100,100,0,0,1,2,1,8,0010,0010,0018,1
+Style: Gen_Italics_top,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,2,1,8,0010,0010,0018,1
+Style: Cart_Nota,Trebuchet MS,20,&H00FFFFFF,&H000000FF,&H00262626,&H00505050,0,-1,0,0,100,100,0,0,1,2,1,8,0010,0010,0018,1
+Style: Cart_A_Tre,Trebuchet MS,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,8,0020,0020,0020,1
+Style: Cart_C_Tre,Trebuchet MS,20,&H00000000,&H000000FF,&H00FFFFFF,&H00FFFFFF,-1,0,0,0,100,100,0,0,1,2,0,8,0020,0020,0020,1
+Style: Cart_A_Ari,Arial,24,&H00FFFFFF,&H000000FF,&H00000000,&H00303030,-1,0,0,0,100,100,0,0,1,2,1,8,0020,0020,0020,1
+Style: Cart_TitleSeries,Impact,30,&H00000000,&H000000FF,&H00FFFFFF,&H00AC4F8A,-1,0,0,0,100,100,0,0,1,2,0,2,0010,0030,0010,1
+Style: Cart_EpiTitle,Trebuchet MS,20,&H00FFFFFF,&H000000FF,&H324C4C4C,&H00484848,0,0,0,0,100,100,0,0,1,1,1,3,0040,0040,0040,1
+Style: Cart_C_Ari,Arial,24,&H00000000,&H000000FF,&H00FFFFFF,&H00303030,-1,0,0,0,100,100,0,0,1,2,1,8,0020,0020,0020,1
+Style: Cart_NextTitle,Times New Roman,28,&H00BAD7E3,&H000000FF,&H00060503,&H00060503,-1,0,0,0,100,100,0,0,3,1,0,8,0020,0020,0100,1
+Style: Cart_A_Tim,Times New Roman,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,8,0020,0020,0020,1
+Style: Cart_C_Tim,Times New Roman,24,&H00000000,&H000000FF,&H00FFFFFF,&H00FFFFFF,-1,0,0,0,100,100,0,0,1,2,1,8,0020,0020,0020,1
+Style: Cart_C_AA,Trebuchet MS,20,&H00000000,&H000000FF,&H004C86BE,&H00FFFFFF,-1,0,0,0,100,100,0,0,1,2,0,8,0020,0020,0020,1
+Style: Cart_A_Tim - Copia,Times New Roman,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,3,2,0,8,0020,0020,0020,1
+Style: Cart_Next,Times New Roman,28,&H00BFDEE1,&H000000FF,&H00060503,&H00060503,-1,0,0,0,100,100,0,0,1,1,0,8,0020,0020,0100,1
+
+[Events]
+Format: Layer,Start,End,Style,Name,MarginL,MarginR,MarginV,Effect,Text
+Dialogue: 0,0:00:05.94,0:00:07.99,Gen_Italics,rimuru,0000,0000,0000,,Participé en el Walpurgis,
+Dialogue: 0,0:00:08.36,0:00:09.86,Gen_Italics,rimuru,0000,0000,0000,,derroté a Clayman,
+Dialogue: 0,0:00:10.07,0:00:11.99,Gen_Italics,rimuru,0000,0000,0000,,me reconocieron como Rey Demonio
+Dialogue: 0,0:00:12.58,0:00:15.91,Gen_Italics,rimuru,0000,0000,0000,,y ahora formo parte\Nde Las Ocho Estrellas: Octagram.
+Dialogue: 0,0:00:25.80,0:00:28.66,Gen_Main,leon,0000,0000,0000,,Ya no tengo nada que hacer aquí. Me voy.
+Dialogue: 0,0:00:29.22,0:00:34.10,Gen_Italics,rimuru,0000,0000,0000,,Leon y Valentine se fueron\Nen cuanto terminó la reunión.
+Dialogue: 0,0:00:34.72,0:00:38.73,Gen_Italics,rimuru,0000,0000,0000,,Tras eso, Guy organizó un banquete.
+Dialogue: 0,0:00:39.14,0:00:41.73,Gen_Main,misery,0000,0000,0000,,Aquí tiene. Tigre negro estofado.
+Dialogue: 0,0:00:44.52,0:00:48.60,Gen_Italics,rimuru,0000,0000,0000,,¡Qué rico! La salsa complementa\Nla carne que se deshace en la lengua.
+Dialogue: 0,0:00:48.78,0:00:49.96,Gen_Italics,rimuru,0000,0000,0000,,¡Raphael!
+Dialogue: 0,0:00:50.11,0:00:52.41,Gen_Italics,raphael,0000,0000,0000,,Recibido. Analizando receta.
+Dialogue: 0,0:00:53.57,0:00:56.46,Gen_Italics,rimuru,0000,0000,0000,,No hay que preocuparse por la etiqueta.
+Dialogue: 0,0:00:57.37,0:00:59.55,Gen_Main,rimuru,0000,0000,0000,,¡Oye, Milim! ¡Eso tiene alcohol!
+Dialogue: 0,0:01:00.50,0:01:01.73,Gen_Main,milim,0000,0000,0000,,¿Qué importa?
+Dialogue: 0,0:01:01.92,0:01:04.42,Gen_Main,milim,0000,0000,0000,,Es mi recompensa por mi gran actuación.
+Dialogue: 0,0:01:04.84,0:01:08.39,Gen_Main,dagruel,0000,0000,0000,,Podrías haber revelado antes\Nque estabas fingiendo.
+Dialogue: 0,0:01:08.59,0:01:11.57,Gen_Main,dagruel,0000,0000,0000,,Clayman no dijo nada\Nsobre el responsable, ¿no?
+Dialogue: 0,0:01:11.72,0:01:15.65,Gen_Main,milim,0000,0000,0000,,No. Pero era mi oportunidad\Nde enfrentarme a Rimuru.
+Dialogue: 0,0:01:15.81,0:01:18.08,Gen_Main,rimuru,0000,0000,0000,,¡Oye! Estás muy joven para beber.
+Dialogue: 0,0:01:18.52,0:01:20.21,Gen_Main,milim,0000,0000,0000,,¡Qué cruel!
+Dialogue: 0,0:01:20.43,0:01:24.11,Gen_Main,milim/guy,0000,0000,0000,,-Soy el Rey Demonio más antiguo.\N-Es un brandy exquisito.
+Dialogue: 0,0:01:24.27,0:01:27.02,Gen_Main,milim/guy,0000,0000,0000,,-¡Puedo con todo!\N-¿Es de uvas de Eurazania?
+Dialogue: 0,0:01:27.19,0:01:28.72,Gen_Main,rimuru,0000,0000,0000,,¿Cómo lo supiste?
+Dialogue: 0,0:01:28.90,0:01:32.53,Gen_Main,rimuru,0000,0000,0000,,Importando fruta\Npodemos fabricarlo de forma estable.
+Dialogue: 0,0:01:32.95,0:01:35.70,Gen_Main,veldora,0000,0000,0000,,Me tomaré otra copa, pues.
+Dialogue: 0,0:01:36.28,0:01:38.41,Gen_Main,rimuru,0000,0000,0000,,¡Contrólate un poco!
+Dialogue: 0,0:01:38.74,0:01:40.12,Gen_Main,dino,0000,0000,0000,,Qué fuerte es.
+Dialogue: 0,0:01:40.83,0:01:43.70,Gen_Main,ramiris,0000,0000,0000,,Qué patético. Vamos a ver…
+Dialogue: 0,0:01:44.67,0:01:46.20,Gen_Main,dagruel,0000,0000,0000,,Qué lástima.
+Dialogue: 0,0:01:46.38,0:01:49.92,Gen_Main,dagruel/ramiris,0000,0000,0000,,-A Valentine le gustaría.\N-¡Otra copa!
+Dialogue: 0,0:01:50.26,0:01:51.88,Gen_Italics,rimuru,0000,0000,0000,,Valentine, ¿eh?
+Dialogue: 0,0:01:52.09,0:01:55.80,Gen_Italics,rimuru,0000,0000,0000,,Tenía preguntas, pero da igual.
+Dialogue: 0,0:01:55.80,0:01:58.32,Gen_Italics,raphael,0000,0000,0000,,Advertencia. Análisis completado.
+Dialogue: 0,0:01:55.91,0:01:56.35,Cart_A_Tim,CARTEL,0000,0000,0000,,{\fad(0,200)\c&HC6E4F0&\3c&H191919&\blur2\fs48\fsp3\bord3}Advertencia
+Dialogue: 0,0:01:56.76,0:01:58.72,Cart_A_Tim,CARTEL,0000,0000,0000,,{\fad(200,500)\c&HC6E4F0&\3c&H000000&\blur2\fs48\fscx80\bord3}Análisis completado
+Dialogue: 0,0:01:58.64,0:02:01.15,Gen_Italics,raphael,0000,0000,0000,,Ya es posible replicar la comida.
+Dialogue: 0,0:02:01.48,0:02:04.52,Gen_Italics,rimuru,0000,0000,0000,,Conseguí unas de las mejores\Nrecetas del mundo,
+Dialogue: 0,0:02:04.81,0:02:06.82,Gen_Italics,rimuru/treyni,0000,0000,0000,,-terminó el Walpurgis…\N-Señora Ramiris.
+Dialogue: 0,0:02:06.98,0:02:08.70,Gen_Main,beretta,0000,0000,0000,,Tengo que decirle algo.
+Dialogue: 0,0:02:10.11,0:02:13.15,Gen_Italics,rimuru,0000,0000,0000,,… y yo regresé a Tempest.
+Dialogue: 1,0:02:29.50,0:02:32.48,Cart_TitleSeries,CARTEL,0000,0000,0000,,{\p1\c&HFFFFFF&\fad(1200,0)\bord0.5\fscx302\fscy30\an7\3c&H59595C&\pos(169.6,321.6)}m 0 0 l 100 0 100 100 0 100{\p0}
+Dialogue: 2,0:02:29.50,0:02:32.48,Cart_TitleSeries,CARTEL,0000,0000,0000,,{\bord0\fs18\an7\fad(1500,0)\fscx120\pos(177.07,327.47)}That {\c&H471E13&}Time {\c&HCD9612&}I Got {\c&H471E13&\fsp0}Reincarnated {\c&HCD9612&}as a {\c&H7E4F0A&}Slime
+Dialogue: 0,0:03:44.84,0:03:49.73,Cart_EpiTitle,CARTEL,0000,0000,0000,,{\fad(1300,500)\pos(599.43,310.86)}Episodio 49: Demonios e intrigas
+Dialogue: 0,0:03:46.50,0:03:48.50,Gen_Main_Up,gobna,0000,0000,0000,,¡Abrimos hoy!
+Dialogue: 0,0:03:51.17,0:03:52.97,Gen_Main,niños,0000,0000,0000,,-¡Espera!\N-¡Espérenme!
+Dialogue: 0,0:04:03.76,0:04:05.68,Gen_Main,rimuru,0000,0000,0000,,¿Y esto?
+Dialogue: 0,0:04:06.68,0:04:09.36,Gen_Main,rimuru,0000,0000,0000,,¿Lo estuvieron practicando?
+Dialogue: 0,0:04:09.52,0:04:12.01,Gen_Main,rigurd,0000,0000,0000,,¡Señor Rimuru!
+Dialogue: 0,0:04:13.23,0:04:15.44,Gen_Main,rigurd,0000,0000,0000,,Bienvenido a casa, señor.
+Dialogue: 0,0:04:16.03,0:04:20.44,Gen_Main,diablo,0000,0000,0000,,Felicidades por su incorporación\Na Octagram.
+Dialogue: 0,0:04:20.61,0:04:21.82,Gen_Main,rimuru,0000,0000,0000,,Ah, gracias.
+Dialogue: 0,0:04:22.24,0:04:25.70,Gen_Main,diablo,0000,0000,0000,,No sabe cuánto me alegro\Nde verlo a salvo.
+Dialogue: 0,0:04:26.04,0:04:29.04,Gen_Main,rimuru,0000,0000,0000,,Espera, ¿qué haces tú aquí, Diablo?
+Dialogue: 0,0:04:29.37,0:04:32.21,Gen_Main,rigurd,0000,0000,0000,,No se preocupe. Ha de estar cansado.
+Dialogue: 0,0:04:32.38,0:04:35.55,Gen_Main,rigurd,0000,0000,0000,,Primero vaya a descansar, por favor.
+Dialogue: 0,0:04:41.05,0:04:43.30,Gen_Main,rimuru/haruna,0000,0000,0000,,-Adelante.\N-Con permiso.
+Dialogue: 0,0:04:49.73,0:04:52.31,Gen_Main,rimuru,0000,0000,0000,,¿Es flan de té matcha?
+Dialogue: 0,0:04:52.48,0:04:55.42,Gen_Main,haruna,0000,0000,0000,,Sí. No estoy al nivel\Nde la señorita Shuna,
+Dialogue: 0,0:04:55.57,0:04:57.44,Gen_Main,haruna,0000,0000,0000,,pero he mejorado.
+Dialogue: 0,0:04:57.61,0:05:00.64,Gen_Main,veldora,0000,0000,0000,,Espero que haya para mí también.
+Dialogue: 0,0:05:00.95,0:05:03.07,Gen_Main,haruna,0000,0000,0000,,Desde luego, señor Veldora.
+Dialogue: 0,0:05:04.03,0:05:05.37,Gen_Main,diablo,0000,0000,0000,,Señor Veldora.
+Dialogue: 0,0:05:05.91,0:05:09.04,Gen_Main,diablo,0000,0000,0000,,Aquí tiene el primero que le prometí.
+Dialogue: 0,0:05:11.25,0:05:14.79,Gen_Main,veldora,0000,0000,0000,,Veo que eres un hombre diligente.
+Dialogue: 0,0:05:15.13,0:05:17.80,Gen_Main,rimuru,0000,0000,0000,,¿No vas a comer, Diablo?
+Dialogue: 0,0:05:17.96,0:05:21.15,Gen_Main,diablo,0000,0000,0000,,Se lo ofrecí como pago\Npor la información.
+Dialogue: 0,0:05:21.34,0:05:23.18,Gen_Main,diablo,0000,0000,0000,,No se preocupe por mí.
+Dialogue: 0,0:05:23.68,0:05:25.04,Gen_Main,rimuru,0000,0000,0000,,¿Qué información?
+Dialogue: 0,0:05:29.10,0:05:33.75,Gen_Main,rimuru,0000,0000,0000,,Ya me extrañaba que Diablo\Nsupiera qué pasó en el Walpurgis.
+Dialogue: 0,0:05:33.94,0:05:35.44,Gen_Main,rimuru,0000,0000,0000,,¿Por cuántos flanes hablaste?
+Dialogue: 0,0:05:35.90,0:05:39.36,Gen_Main,rimuru,0000,0000,0000,,¿Uno? ¿Dos? ¿Tres? Lo sabía.
+Dialogue: 0,0:05:39.90,0:05:43.99,Gen_Main,rimuru,0000,0000,0000,,Veldora, tú no necesitas comer, ¿o sí?
+Dialogue: 0,0:05:44.16,0:05:46.70,Gen_Main,veldora,0000,0000,0000,,¡No digas tonterías, Rimuru!
+Dialogue: 0,0:05:47.08,0:05:49.93,Gen_Main,veldora,0000,0000,0000,,No es cuestión de necesidad.
+Dialogue: 0,0:05:50.08,0:05:52.29,Gen_Main,veldora,0000,0000,0000,,Como porque quiero.
+Dialogue: 0,0:05:52.46,0:05:55.97,Gen_Main,veldora,0000,0000,0000,,Para empezar,\Ntú tampoco necesitas comer.
+Dialogue: 0,0:06:00.76,0:06:03.76,Gen_Main,diablo,0000,0000,0000,,Espero que hayas escoltado\Nbien al señor Rimuru.
+Dialogue: 0,0:06:03.93,0:06:05.15,Gen_Main,shion,0000,0000,0000,,Naturalmente.
+Dialogue: 0,0:06:05.39,0:06:09.22,Gen_Main,shion,0000,0000,0000,,Le demostré que, teniéndome,\Na ti no te necesita.
+Dialogue: 0,0:06:09.77,0:06:14.35,Gen_Main,shion,0000,0000,0000,,¿Y tú qué? ¿Cumpliste\Nla misión que te encargó?
+Dialogue: 0,0:06:16.48,0:06:18.36,Gen_Main,diablo,0000,0000,0000,,A la perfección.
+Dialogue: 0,0:06:18.69,0:06:21.86,Gen_Main,rimuru,0000,0000,0000,,E incluso volviste justo a tiempo.
+Dialogue: 0,0:06:22.03,0:06:24.13,Gen_Main,diablo,0000,0000,0000,,Estaba haciendo unos recados,
+Dialogue: 0,0:06:24.28,0:06:27.37,Gen_Main,diablo,0000,0000,0000,,pero el señor Veldora\Nme dijo que regresara.
+Dialogue: 0,0:06:28.49,0:06:31.41,Gen_Main,veldora,0000,0000,0000,,Acabo de recordar\Nque tengo algo que hacer.
+Dialogue: 0,0:06:32.96,0:06:35.71,Gen_Main,rimuru,0000,0000,0000,,No tan rápido, Veldora.
+Dialogue: 0,0:06:35.87,0:06:37.75,Gen_Main,veldora,0000,0000,0000,,Puedo explicarlo.
+Dialogue: 0,0:06:38.17,0:06:41.05,Gen_Main,rimuru,0000,0000,0000,,¡No! ¡No molestes a otros\Nmientras trabajan!
+Dialogue: 0,0:06:41.46,0:06:42.67,Gen_Main,rimuru,0000,0000,0000,,¡Te quedas sin flan!
+Dialogue: 0,0:06:43.05,0:06:46.18,Gen_Main,rimuru,0000,0000,0000,,Haruna, no le des comida\Ndurante un tiempo.
+Dialogue: 0,0:06:46.80,0:06:49.68,Gen_Main,veldora,0000,0000,0000,,¡Eres demasiado cruel, Rimuru!
+Dialogue: 0,0:06:50.31,0:06:51.93,Gen_Main,veldora,0000,0000,0000,,Ya no tengo energía.
+Dialogue: 0,0:06:52.35,0:06:55.94,Gen_Main,rimuru,0000,0000,0000,,¿Seguro que puedes\Nperder el tiempo aquí?
+Dialogue: 0,0:06:56.27,0:06:58.06,Gen_Main,rimuru,0000,0000,0000,,¿Va todo bien en Falmuth?
+Dialogue: 0,0:06:59.27,0:07:02.11,Gen_Main,shion,0000,0000,0000,,Ese adulador\Npuede quedarse sirviendo té.
+Dialogue: 0,0:07:02.48,0:07:04.99,Gen_Main,shion,0000,0000,0000,,Yo me encargo, señor.
+Dialogue: 0,0:07:05.40,0:07:07.39,Gen_Main,diablo,0000,0000,0000,,No es necesario.
+Dialogue: 0,0:07:07.82,0:07:12.41,Gen_Main,diablo,0000,0000,0000,,Gracias a unos topos,\Ntodo va según lo planeado.
+Dialogue: 0,0:07:13.37,0:07:15.46,Gen_Main,rimuru/diablo,0000,0000,0000,,-¿Seguro?\N-Sí.
+Dialogue: 0,0:07:15.66,0:07:19.29,Gen_Main,diablo,0000,0000,0000,,Para empezar,\Nles devolví su aspecto original.
+Dialogue: 0,0:07:19.84,0:07:22.57,Gen_Main,diablo,0000,0000,0000,,Hablar con pedazos de carne\Nno era productivo.
+Dialogue: 0,0:07:22.75,0:07:26.24,Gen_Main,rimuru,0000,0000,0000,,¿Trozos de carne?\NAh, ya sé a qué te refieres.
+Dialogue: 0,0:07:27.09,0:07:31.21,Gen_Main,diablo,0000,0000,0000,,Qué irritante puede llegar a ser Shion.
+Dialogue: 0,0:07:34.35,0:07:35.72,Gen_Main,diablo,0000,0000,0000,,Qué problema.
+Dialogue: 0,0:07:37.02,0:07:40.39,Gen_Main,diablo,0000,0000,0000,,La magia sanadora no funciona.
+Dialogue: 0,0:07:40.61,0:07:45.61,Gen_Main,diablo,0000,0000,0000,,No sé qué Habilidad puede romper\Nlas leyes de esta manera.
+Dialogue: 0,0:07:47.95,0:07:51.37,Gen_Main,diablo,0000,0000,0000,,Será una sanación dolorosa.\NTendrán que aguantarse.
+Dialogue: 0,0:07:56.87,0:08:01.36,Gen_Main,youm,0000,0000,0000,,No sé si los tres de ese carruaje\Nllegarán a Falmuth sanos y salvos.
+Dialogue: 0,0:08:01.54,0:08:04.00,Gen_Main,grucius,0000,0000,0000,,No se puede decir que estén muy sanos.
+Dialogue: 0,0:08:06.17,0:08:10.06,Gen_Main,reyheim,0000,0000,0000,,¡Se lo agradezco, señor Diablo!
+Dialogue: 0,0:08:10.22,0:08:11.76,Gen_Main,diablo,0000,0000,0000,,Cállate, escoria.
+Dialogue: 0,0:08:12.18,0:08:14.10,Gen_Main,diablo,0000,0000,0000,,Ahora el siguiente.
+Dialogue: 0,0:08:15.77,0:08:20.35,Gen_Main,razen,0000,0000,0000,,El rey. Sánalo a él primero.
+Dialogue: 0,0:08:20.69,0:08:24.61,Gen_Main,diablo,0000,0000,0000,,Cierto, tú eras uno de los prisioneros.
+Dialogue: 0,0:08:24.78,0:08:27.86,Gen_Main,diablo,0000,0000,0000,,Ramen… Ay, no, Razen, ¿verdad?
+Dialogue: 0,0:08:28.36,0:08:30.76,Gen_Main,diablo,0000,0000,0000,,Imagino que entiendes
+Dialogue: 0,0:08:30.91,0:08:35.28,Gen_Main,diablo,0000,0000,0000,,que pedirme un favor te costará caro.
+Dialogue: 0,0:08:35.58,0:08:37.87,Gen_Italics,razen,0000,0000,0000,,Sí. Este hombre es Noir,
+Dialogue: 0,0:08:38.46,0:08:42.25,Gen_Italics,razen,0000,0000,0000,,uno de los demonios primordiales\Nde los Siete Colores.
+Dialogue: 0,0:08:42.88,0:08:44.64,Gen_Italics,razen,0000,0000,0000,,Lo más aterrador de todo
+Dialogue: 0,0:08:45.09,0:08:48.84,Gen_Italics,razen,0000,0000,0000,,es que este demonio sirve a alguien.
+Dialogue: 0,0:08:49.93,0:08:52.05,Gen_Main,rimuru,0000,0000,0000,,No te excedas, Shion.
+Dialogue: 0,0:08:53.01,0:08:57.70,Gen_Italics,razen,0000,0000,0000,,Un Rey Demonio efímero\Nque esconde un poder inimaginable.
+Dialogue: 0,0:08:57.93,0:08:59.81,Gen_Italics,razen,0000,0000,0000,,En aquel momento, lo comprendí.
+Dialogue: 0,0:09:00.14,0:09:04.06,Gen_Italics,razen,0000,0000,0000,,El reino de Falmuth\Ndespertó a un león durmiente.
+Dialogue: 0,0:09:08.74,0:09:10.64,Gen_Main,razen,0000,0000,0000,,Súmame… No.
+Dialogue: 0,0:09:11.07,0:09:15.20,Gen_Main,razen,0000,0000,0000,,Súmeme a lo más bajo de sus filas.
+Dialogue: 0,0:09:15.62,0:09:18.97,Gen_Main,razen,0000,0000,0000,,Juro entregar mi vida por usted.
+Dialogue: 0,0:09:19.25,0:09:22.86,Gen_Main,razen,0000,0000,0000,,Por favor, tenga piedad\Ncon el rey Edmaris.
+Dialogue: 0,0:09:24.46,0:09:26.08,Gen_Main,diablo,0000,0000,0000,,De acuerdo.
+Dialogue: 0,0:09:26.30,0:09:30.76,Gen_Main,diablo,0000,0000,0000,,Pero no toleraré ninguna falta\Nde respeto más hacia el señor Rimuru.
+Dialogue: 0,0:09:31.17,0:09:33.35,Gen_Main,diablo,0000,0000,0000,,Si veo un signo de rebeldía,
+Dialogue: 0,0:09:33.55,0:09:35.15,Gen_Main,diablo,0000,0000,0000,,no solo morirá el rey.
+Dialogue: 0,0:09:35.39,0:09:39.52,Gen_Main,diablo,0000,0000,0000,,Desaparecerá todo rastro\Nde vida de Falmuth.
+Dialogue: 0,0:09:39.85,0:09:41.08,Gen_Main,razen,0000,0000,0000,,Lo comprendo.
+Dialogue: 0,0:09:41.31,0:09:43.79,Gen_Main,razen,0000,0000,0000,,Tiene mi lealtad.
+Dialogue: 0,0:09:44.15,0:09:45.73,Gen_Main,reyheim,0000,0000,0000,,¡Y la mía!
+Dialogue: 0,0:09:46.40,0:09:49.32,Gen_Main,reyheim,0000,0000,0000,,Soy un arzobispo\Nde la Iglesia Occidental.
+Dialogue: 0,0:09:49.48,0:09:51.36,Gen_Main,reyheim,0000,0000,0000,,Seguro que le seré útil.
+Dialogue: 0,0:09:51.78,0:09:56.75,Gen_Italics,edmaris,0000,0000,0000,,Un mago real que lleva muchos años\Nsirviendo a la corona
+Dialogue: 0,0:09:56.95,0:10:00.37,Gen_Italics,edmaris,0000,0000,0000,,ahora abandona a Falmuth.
+Dialogue: 0,0:10:01.54,0:10:03.99,Gen_Main,shion,0000,0000,0000,,Ensuciaste con sangre humana
+Dialogue: 0,0:10:04.29,0:10:06.88,Gen_Main,shion,0000,0000,0000,,las hermosas manos del señor Rimuru.
+Dialogue: 0,0:10:07.84,0:10:11.34,Gen_Main,rimuru,0000,0000,0000,,Este es el destino\Ncon el que tenemos que cargar tú y yo.
+Dialogue: 0,0:10:12.05,0:10:16.92,Gen_Italics,edmaris,0000,0000,0000,,La decisión de Razen\Ndebe ser la correcta.
+Dialogue: 0,0:10:18.10,0:10:22.10,Gen_Main,edmaris,0000,0000,0000,,Como último rey de Falmuth…
+Dialogue: 0,0:10:22.68,0:10:25.85,Gen_Main,edmaris,0000,0000,0000,,prometo colaborar
+Dialogue: 0,0:10:26.27,0:10:31.06,Gen_Main,edmaris,0000,0000,0000,,como desee el señor Diablo.
+Dialogue: 0,0:10:32.28,0:10:33.79,Gen_Main,diablo,0000,0000,0000,,No se preocupen.
+Dialogue: 0,0:10:34.03,0:10:37.62,Gen_Main,diablo,0000,0000,0000,,Si me obedecen, no les pasará nada malo.
+Dialogue: 0,0:10:41.79,0:10:45.37,Gen_Main,diablo,0000,0000,0000,,Con mi Habilidad Única Seductor
+Dialogue: 0,0:10:42.83,0:10:45.37,Gen_Main,,0000,0000,0000,,{\an4\b0\bord0\shad0\fs14\pos(353.07,208.53)\c&HA5B3BF&\clip(342.93,197.87,358.4,218.67)\fad(100,0)\t(0,600,\clip(341.87,195.73,450.13,222.4))}HABILIDAD ÚNICA
+Dialogue: 0,0:10:43.75,0:10:45.37,Cart_A_Tim,CARTEL,0000,0000,0000,,{\bord0\an4\fs40\c&HA5B3BF&\pos(351.47,229.33)\alpha&HFF&\t(0,50,\alpha&H00&)}Se{\alpha&HFF&\t(250,310,\alpha&H00&)}duc{\alpha&HFF&\t(350,517,\alpha&H00&)}tor
+Dialogue: 0,0:10:45.54,0:10:48.37,Gen_Main,diablo,0000,0000,0000,,es muy fácil evitar las traiciones.
+Dialogue: 0,0:10:50.17,0:10:52.26,Gen_Main,youm,0000,0000,0000,,¡Oye, Diablo!
+Dialogue: 0,0:10:52.80,0:10:56.97,Gen_Main,youm/diablo,0000,0000,0000,,-Los prisioneros están vivos, ¿no?\N-Por supuesto, Youm.
+Dialogue: 0,0:10:57.43,0:10:59.50,Gen_Main,diablo,0000,0000,0000,,Pronto llegaremos a la capital.
+Dialogue: 0,0:10:59.68,0:11:03.32,Gen_Main,diablo,0000,0000,0000,,Terminemos pronto con algo\Ntan trivial como una conquista.
+Dialogue: 0,0:11:03.60,0:11:04.69,Gen_Main,youm,0000,0000,0000,,Claro…
+Dialogue: 0,0:11:13.57,0:11:17.99,Gen_Main,ministro 1,0000,0000,0000,,No recupera su aspecto\Ncon ningún tipo de magia.
+Dialogue: 0,0:11:18.32,0:11:21.37,Gen_Main,ministro 2,0000,0000,0000,,¿Qué sucedió, Shogo?
+Dialogue: 0,0:11:21.58,0:11:25.30,Gen_Main,ministro 3,0000,0000,0000,,¿Dónde están los otros dos?\N¿Qué fue del ejército?
+Dialogue: 0,0:11:25.54,0:11:28.10,Gen_Main,razen,0000,0000,0000,,Cálmense. Soy Razen.
+Dialogue: 0,0:11:28.38,0:11:32.63,Gen_Main,razen,0000,0000,0000,,Defendí al rey y huimos\Ncon ayuda de unos héroes.
+Dialogue: 0,0:11:33.00,0:11:37.01,Gen_Main,ministro 1,0000,0000,0000,,¿Qué? ¿No eres Shogo, entonces?
+Dialogue: 0,0:11:37.18,0:11:39.88,Gen_Main,ministro 4,0000,0000,0000,,¿El ejército de Falmuth fue derrotado?
+Dialogue: 0,0:11:40.10,0:11:44.93,Gen_Main,ministro 2,0000,0000,0000,,Espero que no hayan huido\Npor no poder acabar con los monstruos.
+Dialogue: 0,0:11:45.10,0:11:47.52,Gen_Main,ministros,0000,0000,0000,,-¿Cómo puede ser?\N-¿Qué significa esto?
+Dialogue: 0,0:11:48.06,0:11:50.30,Gen_Main,muller,0000,0000,0000,,Silencio, por favor.
+Dialogue: 0,0:11:50.48,0:11:53.72,Gen_Main,muller,0000,0000,0000,,Primero escuchemos al señor Razen.
+Dialogue: 0,0:11:57.78,0:12:00.77,Gen_Main,ministro 2,0000,0000,0000,,¿De verdad todos desaparecieron?
+Dialogue: 0,0:12:00.95,0:12:02.06,Gen_Main,razen,0000,0000,0000,,Así es.
+Dialogue: 0,0:12:02.45,0:12:04.93,Gen_Main,razen,0000,0000,0000,,La lucha contra los monstruos
+Dialogue: 0,0:12:05.08,0:12:07.91,Gen_Main,razen,0000,0000,0000,,despertó a un dragón que dormía allí.
+Dialogue: 0,0:12:08.37,0:12:12.92,Gen_Main,ministro 3,0000,0000,0000,,¡La Iglesia Occidental declaró\Nque se habían extinguido!
+Dialogue: 0,0:12:13.09,0:12:15.39,Gen_Main,razen,0000,0000,0000,,Y se extinguieron.
+Dialogue: 0,0:12:15.59,0:12:17.97,Gen_Main,razen,0000,0000,0000,,Pero los dragones no perecen.
+Dialogue: 0,0:12:18.26,0:12:20.93,Gen_Main,razen,0000,0000,0000,,Nacen más en algún rincón del mundo.
+Dialogue: 0,0:12:21.72,0:12:24.57,Gen_Main,razen,0000,0000,0000,,No obstante, nadie esperaba
+Dialogue: 0,0:12:24.81,0:12:28.19,Gen_Main,razen,0000,0000,0000,,que renaciera tan cerca\Nen tan poco tiempo.
+Dialogue: 0,0:12:28.35,0:12:30.12,Gen_Main,razen,0000,0000,0000,,La resurrección de Veldora
+Dialogue: 0,0:12:30.35,0:12:33.55,Gen_Main,razen,0000,0000,0000,,hizo desaparecer\Na los caballeros y los monstruos.
+Dialogue: 0,0:12:33.94,0:12:35.82,Gen_Main,razen,0000,0000,0000,,Solo quedamos nosotros.
+Dialogue: 0,0:12:35.98,0:12:37.74,Gen_Main,ministro 2/ministro 4,0000,0000,0000,,-No…\N-Es imposible.
+Dialogue: 0,0:12:40.91,0:12:42.66,Gen_Main,youm,0000,0000,0000,,Disculpen la tardanza.
+Dialogue: 0,0:12:46.08,0:12:49.26,Gen_Main,youm,0000,0000,0000,,Por fin conseguí convencerlo.
+Dialogue: 0,0:12:52.33,0:12:55.67,Gen_Main,carlos,0000,0000,0000,,¿Quiénes son ustedes,\Nplebeyos insolentes?
+Dialogue: 0,0:12:56.05,0:12:57.86,Gen_Main,razen,0000,0000,0000,,Espere, señor Carlos.
+Dialogue: 0,0:12:58.05,0:13:00.84,Gen_Main,razen,0000,0000,0000,,Este es el grupo que nos salvó.
+Dialogue: 0,0:13:01.22,0:13:03.88,Gen_Main,ministro 3,0000,0000,0000,,¿Que los salvaron?
+Dialogue: 0,0:13:04.10,0:13:06.10,Gen_Main,ministro 1,0000,0000,0000,,¿Qué quiere decir?
+Dialogue: 0,0:13:06.43,0:13:09.12,Gen_Main,reyheim,0000,0000,0000,,Eso puedo responderlo yo.
+Dialogue: 0,0:13:09.68,0:13:10.94,Gen_Main,carlos,0000,0000,0000,,Señor Reyheim.
+Dialogue: 0,0:13:14.15,0:13:16.72,Gen_Main,reyheim,0000,0000,0000,,Hubo un choque entre ambos ejércitos
+Dialogue: 0,0:13:16.94,0:13:19.44,Gen_Main,reyheim,0000,0000,0000,,y se desarrolló un feroz combate.
+Dialogue: 0,0:13:19.78,0:13:22.55,Gen_Main,reyheim,0000,0000,0000,,Los superábamos en número,
+Dialogue: 0,0:13:22.74,0:13:24.99,Gen_Main,reyheim,0000,0000,0000,,pero conocían mejor el terreno
+Dialogue: 0,0:13:25.20,0:13:27.20,Gen_Main,reyheim,0000,0000,0000,,y sufrimos muchas bajas.
+Dialogue: 0,0:13:28.54,0:13:32.76,Gen_Main,reyheim,0000,0000,0000,,Esa presencia caótica sería la clave\Npara la resurrección del dragón.
+Dialogue: 0,0:13:32.92,0:13:35.26,Gen_Main,reyheim,0000,0000,0000,,Veldora apareció de repente
+Dialogue: 0,0:13:35.46,0:13:39.10,Gen_Main,reyheim,0000,0000,0000,,y tanto enemigos como aliados\Nsentimos la muerte cerca
+Dialogue: 0,0:13:39.38,0:13:41.97,Gen_Main,reyheim,0000,0000,0000,,ante el Dragón de la Tormenta.
+Dialogue: 0,0:13:42.13,0:13:46.01,Gen_Main,razen,0000,0000,0000,,Pero hubo una figura\Nque se atrevió a hacerle frente.
+Dialogue: 0,0:13:47.64,0:13:51.90,Gen_Main,reyheim,0000,0000,0000,,El señor Rimuru,\Nel líder de los monstruos.
+Dialogue: 0,0:13:52.06,0:13:55.52,Gen_Main,razen,0000,0000,0000,,El señor Reyheim y yo\Ncreímos que íbamos a morir.
+Dialogue: 0,0:13:55.90,0:14:00.53,Gen_Main,razen,0000,0000,0000,,Pero el señor Rimuru\Nconvenció a Veldora.
+Dialogue: 0,0:14:02.28,0:14:04.09,Gen_Main,ministro 1,0000,0000,0000,,¿Hablaron?
+Dialogue: 0,0:14:04.24,0:14:06.15,Gen_Main,ministro 3,0000,0000,0000,,La mayoría de los seres muere
+Dialogue: 0,0:14:06.32,0:14:10.35,Gen_Main,ministro 3,0000,0000,0000,,al entrar en contacto\Ncon las magículas de Veldora.
+Dialogue: 0,0:14:10.58,0:14:12.25,Gen_Main,ministro 4,0000,0000,0000,,¿Cómo pudo…?
+Dialogue: 0,0:14:12.75,0:14:15.08,Gen_Main,reyheim,0000,0000,0000,,Imagino que ya están al corriente.
+Dialogue: 0,0:14:15.29,0:14:20.01,Gen_Main,reyheim,0000,0000,0000,,El señor Rimuru es el líder de\Nla Federación del Gran Bosque de Jura.
+Dialogue: 0,0:14:20.46,0:14:23.38,Gen_Main,ministro 2,0000,0000,0000,,¿No se dio ese título a sí mismo?
+Dialogue: 0,0:14:24.97,0:14:27.14,Gen_Main,razen,0000,0000,0000,,Por supuesto que no.
+Dialogue: 0,0:14:27.47,0:14:29.38,Gen_Main,razen,0000,0000,0000,,Vi la ciudad de los monstruos
+Dialogue: 0,0:14:29.56,0:14:32.77,Gen_Main,razen,0000,0000,0000,,y puedo decir que merece\Nllamarse capital.
+Dialogue: 0,0:14:33.18,0:14:38.61,Gen_Main,razen,0000,0000,0000,,Tenía a su servicio a la dríade\Nque supervisa el Gran Bosque.
+Dialogue: 0,0:14:39.15,0:14:44.11,Gen_Main,razen,0000,0000,0000,,El señor Rimuru negoció\Ncon Veldora a través de ella.
+Dialogue: 0,0:14:44.49,0:14:45.81,Gen_Main,ministro 1,0000,0000,0000,,¿Una dríade?
+Dialogue: 0,0:14:46.03,0:14:49.62,Gen_Main,ministro 1,0000,0000,0000,,Es un monstruo poderoso\Nque protege la tierra donde dormía.
+Dialogue: 0,0:14:49.78,0:14:51.87,Gen_Main,ministro 2,0000,0000,0000,,¿Y está a su servicio?
+Dialogue: 0,0:14:52.33,0:14:55.37,Gen_Main,ministro 1,0000,0000,0000,,Si puede negociar con el dragón malvado,
+Dialogue: 0,0:14:55.58,0:15:00.13,Gen_Main,ministro 1,0000,0000,0000,,no nos interesa\Nenemistarnos con el tal Rimuru.
+Dialogue: 0,0:15:01.34,0:15:05.13,Gen_Main,youm,0000,0000,0000,,No se preocupen por eso.
+Dialogue: 0,0:15:05.63,0:15:10.77,Gen_Main,youm,0000,0000,0000,,Colaboré con él al cazar a un Orc Lord.
+Dialogue: 0,0:15:11.31,0:15:15.85,Gen_Main,youm,0000,0000,0000,,Rimuru es amigable y prefiere cooperar.
+Dialogue: 0,0:15:16.27,0:15:21.50,Gen_Main,carlos,0000,0000,0000,,Bien. Media entre nosotros\Npara transmitirle nuestras demandas.
+Dialogue: 0,0:15:21.73,0:15:24.28,Gen_Main,carlos,0000,0000,0000,,Te daremos el mensaje más adelante.
+Dialogue: 0,0:15:24.44,0:15:25.86,Gen_Main,carlos,0000,0000,0000,,Espera en otra sala.
+Dialogue: 0,0:15:26.57,0:15:28.53,Gen_Main,youm,0000,0000,0000,,Un momento.
+Dialogue: 0,0:15:28.70,0:15:32.32,Gen_Main,youm,0000,0000,0000,,Normalmente es amigable,\Npero ahora mismo no.
+Dialogue: 0,0:15:32.66,0:15:35.37,Gen_Main,youm,0000,0000,0000,,Y saben muy bien por qué.
+Dialogue: 0,0:15:35.54,0:15:36.87,Gen_Main,carlos,0000,0000,0000,,¿Cómo dices?
+Dialogue: 0,0:15:37.25,0:15:41.17,Gen_Main,youm,0000,0000,0000,,Ustedes iniciaron\Nuna guerra contra su país.
+Dialogue: 0,0:15:41.38,0:15:42.63,Gen_Main,youm,0000,0000,0000,,Fue mala idea.
+Dialogue: 0,0:15:43.25,0:15:46.41,Gen_Main,youm,0000,0000,0000,,Entre las víctimas había amigos suyos.
+Dialogue: 0,0:15:46.63,0:15:48.66,Gen_Main,youm,0000,0000,0000,,Está muy molesto.
+Dialogue: 0,0:15:49.47,0:15:51.64,Gen_Main,carlos,0000,0000,0000,,¿Cómo osas, plebeyo?
+Dialogue: 0,0:15:51.85,0:15:54.64,Gen_Main,carlos,0000,0000,0000,,Si tienes relación con él, úsala.
+Dialogue: 0,0:15:54.81,0:15:58.27,Gen_Main,carlos,0000,0000,0000,,Mediar es parte del trabajo\Nde un héroe. ¡Haz algo!
+Dialogue: 0,0:15:59.19,0:16:00.90,Gen_Main,razen,0000,0000,0000,,¡Basta, señor Carlos!
+Dialogue: 0,0:16:01.23,0:16:04.17,Gen_Main,youm,0000,0000,0000,,Primero escúchenme bien.
+Dialogue: 0,0:16:04.40,0:16:07.61,Gen_Main,youm,0000,0000,0000,,Sin enviar un mensajero\Nni declararles la guerra,
+Dialogue: 0,0:16:07.78,0:16:10.53,Gen_Main,youm,0000,0000,0000,,mandaron a gente\Nde otro mundo a matarlos.
+Dialogue: 0,0:16:10.91,0:16:13.57,Gen_Main,youm,0000,0000,0000,,Yo fui a intentar interceder
+Dialogue: 0,0:16:13.79,0:16:16.33,Gen_Main,youm,0000,0000,0000,,y quedé perplejo al enterarme.
+Dialogue: 0,0:16:16.33,0:16:19.08,Cart_C_Tre,CARTEL,0000,0000,0000,,{\fs10\c&H132944&\shad0\blur1\fad(0,1500)\bord1\3c&H65B7C3&\b0\pos(34.29,255.24)}Sacro Imperio\Nde Ruberios
+Dialogue: 0,0:16:16.33,0:16:19.08,Cart_C_Tre,CARTEL,0000,0000,0000,,{\fs10\c&H132944&\shad0\blur1\fad(0,1500)\bord1\3c&H65B7C3&\b0\pos(133.18,277.18)}Reino de Ingrassia
+Dialogue: 0,0:16:16.33,0:16:19.08,Cart_C_Tre,CARTEL,0000,0000,0000,,{\fs10\c&H132944&\shad0\blur1\fad(0,1500)\bord1\3c&H98CDD7&\b0\pos(224.47,129.88)}Reino de Shiltrozzo
+Dialogue: 0,0:16:16.33,0:16:19.08,Cart_C_Tre,CARTEL,0000,0000,0000,,{\fs10\c&H132944&\shad0\blur1\fad(0,1500)\bord1\3c&H65B7C3&\pos(317.18,172.24)\b0}Reino de Falmuth
+Dialogue: 0,0:16:16.33,0:16:19.08,Cart_C_Tre,CARTEL,0000,0000,0000,,{\fs10\c&H132944&\shad0\blur1\fad(0,1500)\bord1\3c&H65B7C3&\b0\pos(338.35,252.24)}Reino de Blumund
+Dialogue: 0,0:16:16.33,0:16:19.08,Cart_C_Tre,CARTEL,0000,0000,0000,,{\fs10\c&H132944&\shad0\blur1\fad(0,1500)\bord1\3c&H65B7C3&\b0\pos(464.47,105.41)}Nación Armada\Nde Dwargon
+Dialogue: 0,0:16:16.33,0:16:19.08,Cart_C_Tre,CARTEL,0000,0000,0000,,{\fs10\c&H132944&\shad0\blur1\fad(0,1500)\bord1\3c&H65B7C3&\b0\pos(504.47,173.65)}Cordillera de Canaat
+Dialogue: 0,0:16:16.33,0:16:19.08,Cart_C_Tre,CARTEL,0000,0000,0000,,{\fs10\c&H132944&\shad0\blur1\fad(0,1500)\bord2\3c&H5091AB&\b0\pos(440,277.65)}Cueva sellada
+Dialogue: 0,0:16:16.33,0:16:19.08,Cart_C_Tre,CARTEL,0000,0000,0000,,{\fs10\c&H7AB1C6&\shad0\blur1\fad(0,300)\bord1\3c&H467287&\pos(529.88,263.06)}Lago Siss
+Dialogue: 0,0:16:16.33,0:16:19.08,Cart_C_Tre,CARTEL,0000,0000,0000,,{\fs10\c&H132944&\shad0\blur1\fad(0,1500)\bord1\3c&H65B7C3&\b0\pos(600,142.48)}Gran Bosque de Jura
+Dialogue: 0,0:16:16.83,0:16:20.39,Gen_Main,youm,0000,0000,0000,,Pero nací en Falmuth,\Nal fin y al cabo.
+Dialogue: 0,0:16:20.71,0:16:23.26,Gen_Main,youm,0000,0000,0000,,No quiero que destruyan mi patria,
+Dialogue: 0,0:16:23.46,0:16:26.34,Gen_Main,youm,0000,0000,0000,,así que le pedí que intentara negociar.
+Dialogue: 0,0:16:26.51,0:16:30.68,Gen_Main,carlos,0000,0000,0000,,¡Un mero plebeyo\Nno puede hablar por el reino!
+Dialogue: 0,0:16:30.84,0:16:35.58,Gen_Main,carlos/razen,0000,0000,0000,,-No pienso tolerar…\N-¡Cállate de una vez, necio!
+Dialogue: 0,0:16:37.56,0:16:40.35,Gen_Main,razen,0000,0000,0000,,Si no sabes lo que pasó, no hables.
+Dialogue: 0,0:16:45.57,0:16:47.26,Gen_Main,razen,0000,0000,0000,,Escúchenme.
+Dialogue: 0,0:16:47.49,0:16:49.61,Gen_Main,razen,0000,0000,0000,,El señor Youm dice la verdad.
+Dialogue: 0,0:16:50.16,0:16:51.95,Gen_Main,razen,0000,0000,0000,,Perdimos.
+Dialogue: 0,0:16:52.16,0:16:54.62,Gen_Main,razen,0000,0000,0000,,Solo sobrevivimos Reyheim, yo…
+Dialogue: 0,0:16:54.99,0:17:00.81,Gen_Main,razen,0000,0000,0000,,y el rey Edmaris, que acabó así\Npor culpa de las magículas del dragón.
+Dialogue: 0,0:17:01.54,0:17:02.92,Gen_Main,razen,0000,0000,0000,,Éramos prisioneros,
+Dialogue: 0,0:17:03.08,0:17:06.72,Gen_Main,razen,0000,0000,0000,,pero nos liberaron\Ngracias al señor Youm.
+Dialogue: 0,0:17:07.38,0:17:11.50,Gen_Main,ministro 3,0000,0000,0000,,¿Falmuth va a doblegarse\Nante unos monstruos?
+Dialogue: 0,0:17:11.97,0:17:14.08,Gen_Main,ministro 4,0000,0000,0000,,No tenemos opción.
+Dialogue: 0,0:17:14.35,0:17:16.88,Gen_Main,ministro 4,0000,0000,0000,,¿Pretendes enemistarte con el dragón?
+Dialogue: 0,0:17:17.06,0:17:19.10,Gen_Main,ministro 3,0000,0000,0000,,No, pero…
+Dialogue: 0,0:17:19.56,0:17:22.10,Gen_Main,muller,0000,0000,0000,,Aceptaremos lo que dicen.
+Dialogue: 0,0:17:22.27,0:17:23.97,Gen_Main,muller,0000,0000,0000,,¿Verdad?
+Dialogue: 0,0:17:28.74,0:17:30.64,Gen_Main,diablo,0000,0000,0000,,Sabia decisión.
+Dialogue: 0,0:17:30.99,0:17:35.78,Gen_Main,diablo,0000,0000,0000,,Tal como prometimos,\Nliberaré a su rey.
+Dialogue: 0,0:17:35.95,0:17:38.12,Gen_Main,guardia 1/2,0000,0000,0000,,-¿Quién eres?\N-¿En qué momento…?
+Dialogue: 0,0:17:39.04,0:17:42.08,Gen_Main,diablo,0000,0000,0000,,Mis disculpas, es que era muy fácil.
+Dialogue: 0,0:17:43.17,0:17:45.21,Gen_Main,diablo,0000,0000,0000,,Me llamo Diablo.
+Dialogue: 0,0:17:45.38,0:17:50.63,Gen_Main,diablo,0000,0000,0000,,Soy el leal mayordomo\Nde mi rey, el señor Rimuru.
+Dialogue: 0,0:17:53.43,0:17:55.89,Gen_Main,ministro 3/ministro 2,0000,0000,0000,,-¡Majestad!\N-¿Qué es esa medicina?
+Dialogue: 0,0:17:57.18,0:18:00.35,Gen_Main,diablo,0000,0000,0000,,Una full-potion,\Nuna especialidad de nuestro país.
+Dialogue: 0,0:18:00.56,0:18:02.81,Gen_Main,diablo,0000,0000,0000,,Ofrece una sanación excelente.
+Dialogue: 0,0:18:04.40,0:18:06.57,Gen_Main,diablo,0000,0000,0000,,¿Cómo se encuentra?
+Dialogue: 0,0:18:07.32,0:18:11.57,Gen_Main,edmaris,0000,0000,0000,,Bien. Agradezco tu ayuda.
+Dialogue: 0,0:18:11.95,0:18:13.92,Gen_Main,diablo,0000,0000,0000,,Rey de Falmuth,
+Dialogue: 0,0:18:14.11,0:18:18.08,Gen_Main,diablo,0000,0000,0000,,tengo un mensaje de mi rey,\Nel señor Rimuru.
+Dialogue: 0,0:18:18.95,0:18:22.58,Gen_Main,edmaris,0000,0000,0000,,Te escucho,\Nemisario del reino de los monstruos.
+Dialogue: 0,0:18:23.37,0:18:25.54,Gen_Main,diablo,0000,0000,0000,,Se lo leeré, pues.
+Dialogue: 0,0:18:26.00,0:18:27.66,Gen_Main,diablo,0000,0000,0000,,"Dentro de una semana,
+Dialogue: 0,0:18:27.84,0:18:31.55,Gen_Main,diablo,0000,0000,0000,,celebraremos una convención de paz\Nentre ambos reinos en Falmuth.
+Dialogue: 0,0:18:32.01,0:18:34.55,Gen_Main,diablo,0000,0000,0000,,Les ofrezco varias opciones".
+Dialogue: 0,0:18:34.88,0:18:36.30,Gen_Main,ministro 1,0000,0000,0000,,¿Opciones?
+Dialogue: 0,0:18:36.47,0:18:40.95,Gen_Main,diablo,0000,0000,0000,,"La primera es la abdicación del rey\Ny una compensación por la guerra.
+Dialogue: 0,0:18:41.18,0:18:45.31,Gen_Main,diablo,0000,0000,0000,,La segunda, someterse\Na vasallaje de la federación.
+Dialogue: 0,0:18:45.73,0:18:48.79,Gen_Main,diablo,0000,0000,0000,,La tercera, continuar con la guerra".
+Dialogue: 0,0:18:49.69,0:18:51.07,Gen_Main,ministro 2,0000,0000,0000,,Es una locura.
+Dialogue: 0,0:18:51.40,0:18:52.77,Gen_Main,diablo,0000,0000,0000,,Eso es todo.
+Dialogue: 0,0:18:53.24,0:18:57.19,Gen_Main,diablo,0000,0000,0000,,Tengan preparada la respuesta\Ndentro de una semana.
+Dialogue: 0,0:18:58.24,0:19:00.78,Gen_Main,ministro 1,0000,0000,0000,,¡Espera! No es tiempo sufici…
+Dialogue: 0,0:19:00.95,0:19:01.99,Gen_Main,diablo,0000,0000,0000,,Silencio.
+Dialogue: 0,0:19:02.33,0:19:04.30,Gen_Main,diablo,0000,0000,0000,,No soy muy paciente.
+Dialogue: 0,0:19:04.87,0:19:08.26,Gen_Main,ministro 2,0000,0000,0000,,Pero debemos reunir\Na los nobles de las provincias.
+Dialogue: 0,0:19:08.71,0:19:10.55,Gen_Main,diablo,0000,0000,0000,,Les dije que se callaran.
+Dialogue: 0,0:19:12.09,0:19:15.68,Gen_Main,diablo,0000,0000,0000,,Al señor Rimuru no le importan\Nsus circunstancias.
+Dialogue: 0,0:19:15.97,0:19:20.56,Gen_Main,diablo,0000,0000,0000,,Y también les aconsejo\Nque no tramen nada absurdo.
+Dialogue: 0,0:19:21.06,0:19:24.01,Gen_Main,diablo,0000,0000,0000,,Tampoco pueden hacernos esperar.
+Dialogue: 0,0:19:24.85,0:19:26.95,Gen_Main,diablo,0000,0000,0000,,Si no responden en una semana,
+Dialogue: 0,0:19:27.15,0:19:29.50,Gen_Main,diablo,0000,0000,0000,,interpretaremos que quieren la guerra.
+Dialogue: 0,0:19:29.73,0:19:31.02,Gen_Main,diablo,0000,0000,0000,,¿Entendido?
+Dialogue: 0,0:19:31.44,0:19:35.53,Gen_Main,diablo,0000,0000,0000,,Piénsenlo bien\Nantes de darnos la respuesta.
+Dialogue: 0,0:19:40.62,0:19:43.58,Gen_Main,diablo,0000,0000,0000,,Agité un poco el avispero.
+Dialogue: 0,0:19:43.95,0:19:46.08,Gen_Main,rimuru/diablo,0000,0000,0000,,-¿Les enseñaste eso?\N-Sí.
+Dialogue: 0,0:19:46.46,0:19:49.83,Gen_Main,diablo,0000,0000,0000,,Consideré que aterrarlos\Nera mi mejor opción.
+Dialogue: 0,0:19:50.84,0:19:53.09,Gen_Italics,rimuru,0000,0000,0000,,No fue un cumplido, Shion.
+Dialogue: 0,0:19:53.55,0:19:55.90,Gen_Main,diablo,0000,0000,0000,,Como condición para la paz
+Dialogue: 0,0:19:56.42,0:20:00.14,Gen_Main,diablo,0000,0000,0000,,solicité una compensación\Nde 10 000 monedas de oro estelar.
+Dialogue: 0,0:20:01.14,0:20:04.89,Gen_Main,rimuru,0000,0000,0000,,¿Diez mil monedas de oro estelar? Este…
+Dialogue: 0,0:20:04.93,0:20:09.14,Cart_A_Tre,CARTEL,0000,0000,0000,,{\bord2\blur2\fscy150\shad0\an4\fs12\fscx90\c&HA4B0BF&\pos(70.4,277.33)\fad(50,0)\clip(61.33,260.8,77.33,298.13)\t(0,648,\clip(58.13,256.53,274.13,312.53))}1000 millones de yenes x 10 filas x 100 capas
+Dialogue: 0,0:20:05.35,0:20:09.15,Gen_Italics_top,raphael,0000,0000,0000,,Equivaldrían a un billón\Nde yenes japoneses.
+Dialogue: 0,0:20:10.27,0:20:12.57,Gen_Main,rimuru,0000,0000,0000,,¿No crees que es demasiado?
+Dialogue: 0,0:20:12.94,0:20:14.61,Gen_Main,diablo,0000,0000,0000,,No se preocupe.
+Dialogue: 0,0:20:14.78,0:20:16.82,Gen_Main,diablo,0000,0000,0000,,Les di tres opciones,
+Dialogue: 0,0:20:16.99,0:20:18.91,Gen_Main,diablo,0000,0000,0000,,pero solo pueden elegir una.
+Dialogue: 0,0:20:18.91,0:20:31.91,Cart_C_Tim,CARTEL,0000,0000,0000,,{\c&H1C3F52&\blur0.2\bord0\shad0\fs16\b1\fscx80\pos(123.73,152.53)\t(7815,7981,\1c&H1F2E32&)}Someterse a Tempest\Ny volverse vasallos
+Dialogue: 0,0:20:18.91,0:20:31.91,Cart_C_Tim,CARTEL,0000,0000,0000,,{\c&H1C3F52&\blur0.2\bord0\shad0\fs16\b1\fscx80\pos(320,141.33)\t(3519,3760,\1c&H1F2E32&)\t(10484,10650,\1c&H348C9B&)}Abdicación del rey\Ny compensación\Npor la guerra
+Dialogue: 0,0:20:18.91,0:20:31.91,Cart_A_Tim,CARTEL,0000,0000,0000,,{\c&H1C3F52&\blur0.2\bord0\shad0\fs16\b1\fscx80\pos(515.73,125.33)\t(3519,3760,\1c&H1F2E32&)\t(3519,3760,\1c&H1F2E32&)}Continuar con la guerra
+Dialogue: 0,0:20:19.41,0:20:23.68,Gen_Main,diablo,0000,0000,0000,,No pueden alargar la guerra\Ncon un ejército inexistente.
+Dialogue: 0,0:20:23.95,0:20:28.17,Gen_Main,diablo,0000,0000,0000,,Y está claro que los nobles\Nrechazarán el vasallaje.
+Dialogue: 0,0:20:28.50,0:20:31.92,Gen_Main,diablo,0000,0000,0000,,Por lo tanto,\Ndeberán elegir la compensación
+Dialogue: 0,0:20:32.09,0:20:35.42,Gen_Main,diablo,0000,0000,0000,,y basarán sus negociaciones en ella.
+Dialogue: 0,0:20:35.80,0:20:39.93,Gen_Main,rimuru,0000,0000,0000,,¿Pedirán que baje el precio\No que aceptemos varios pagos?
+Dialogue: 0,0:20:40.34,0:20:42.06,Gen_Main,diablo,0000,0000,0000,,No lo bajaremos.
+Dialogue: 0,0:20:42.30,0:20:45.31,Gen_Main,diablo,0000,0000,0000,,Falmuth tendrá que asumir\Nnuestras condiciones.
+Dialogue: 0,0:20:45.64,0:20:47.55,Gen_Main,diablo,0000,0000,0000,,Lo que harán
+Dialogue: 0,0:20:47.77,0:20:51.41,Gen_Main,diablo,0000,0000,0000,,será traspasarle\Nla responsabilidad a un tercero.
+Dialogue: 0,0:20:51.60,0:20:53.31,Gen_Main,rimuru,0000,0000,0000,,¿Y qué haremos?
+Dialogue: 0,0:20:53.48,0:20:55.06,Gen_Main,diablo,0000,0000,0000,,Ya está todo previsto.
+Dialogue: 0,0:20:55.23,0:20:58.95,Gen_Main,diablo,0000,0000,0000,,Creo que conseguiremos\Nlas 10 000 monedas.
+Dialogue: 0,0:20:59.11,0:21:00.50,Gen_Main,rimuru,0000,0000,0000,,¿En qué te basas?
+Dialogue: 0,0:21:00.70,0:21:01.91,Gen_Main,diablo,0000,0000,0000,,Muy sencillo.
+Dialogue: 0,0:21:02.45,0:21:05.75,Gen_Main,diablo,0000,0000,0000,,El alto valor de esas monedas\Ncomplica su uso.
+Dialogue: 0,0:21:05.99,0:21:08.41,Gen_Main,diablo,0000,0000,0000,,No hay dónde usarlas.
+Dialogue: 0,0:21:08.58,0:21:12.68,Gen_Main,rimuru,0000,0000,0000,,Ya veo. Así que se acaban acumulando.
+Dialogue: 0,0:21:12.92,0:21:15.50,Gen_Main,rimuru,0000,0000,0000,,¿Y? ¿Qué más planeas?
+Dialogue: 0,0:21:17.42,0:21:23.08,Gen_Main,diablo,0000,0000,0000,,Elegir la primera opción implica\Npagar y que el rey abdique.
+Dialogue: 0,0:21:23.26,0:21:26.26,Gen_Main,diablo,0000,0000,0000,,Sin la corona,\NEdmaris perderá su influencia
+Dialogue: 0,0:21:26.64,0:21:30.84,Gen_Main,diablo,0000,0000,0000,,y se convertirá en el blanco\Nde los que desean culpar a alguien.
+Dialogue: 0,0:21:31.02,0:21:36.02,Gen_Main,rimuru,0000,0000,0000,,Será el tercero\Nal que la nobleza responsabilice, ¿eh?
+Dialogue: 0,0:21:36.19,0:21:38.59,Gen_Main,diablo,0000,0000,0000,,Sin los caballeros reales,
+Dialogue: 0,0:21:38.86,0:21:43.66,Gen_Main,diablo,0000,0000,0000,,enemistarse con la nobleza\Nes sinónimo de muerte para Edmaris.
+Dialogue: 0,0:21:43.87,0:21:45.95,Gen_Main,diablo,0000,0000,0000,,Tendrá que hacer lo que digan.
+Dialogue: 0,0:21:46.37,0:21:49.31,Gen_Main,diablo,0000,0000,0000,,Pero eso será solo públicamente.
+Dialogue: 0,0:21:49.50,0:21:50.61,Gen_Main,diablo,0000,0000,0000,,En el fondo…
+Dialogue: 0,0:21:50.79,0:21:54.39,Gen_Main,rimuru,0000,0000,0000,,Sin soldados, los realistas\Nperderán ante los nobles.
+Dialogue: 0,0:21:54.63,0:21:56.21,Gen_Main,rimuru,0000,0000,0000,,Para evitarlo…
+Dialogue: 0,0:21:56.38,0:21:59.71,Gen_Italics,raphael,0000,0000,0000,,Respuesta. Continuar colaborando\Ncon el grupo de Youm
+Dialogue: 0,0:21:59.88,0:22:02.41,Gen_Italics,raphael,0000,0000,0000,,sería el mejor plan posible.
+Dialogue: 0,0:22:02.59,0:22:03.72,Gen_Italics,raphael,0000,0000,0000,,Al hacerlo…
+Dialogue: 0,0:22:04.05,0:22:09.35,Gen_Main,rimuru,0000,0000,0000,,El rey Edmaris intentará ganarse\Na Youm y, con él, a nosotros.
+Dialogue: 0,0:22:09.77,0:22:12.19,Gen_Main,diablo,0000,0000,0000,,Correcto. No deja de sorprenderme.
+Dialogue: 0,0:22:12.35,0:22:15.69,Gen_Main,rimuru,0000,0000,0000,,Así que tenemos\Nque prestarle hombres a Youm.
+Dialogue: 0,0:22:16.06,0:22:20.19,Gen_Main,diablo,0000,0000,0000,,Sí. Razen nos avisará\Ncuando sea necesario.
+Dialogue: 0,0:22:20.57,0:22:22.44,Gen_Main,rimuru,0000,0000,0000,,¿Crees que podrán ganar?
+Dialogue: 0,0:22:22.61,0:22:27.21,Gen_Main_Up,veldora,0000,0000,0000,,¿Qué debería hacer?
+Dialogue: 0,0:22:22.95,0:22:27.21,Gen_Main,rimuru,0000,0000,0000,,¿No involucrará a otros reinos\Nel próximo en la línea de sucesión?
+Dialogue: 0,0:22:27.62,0:22:33.32,Gen_Main,diablo,0000,0000,0000,,Fuze y Gazel ejercen su influencia\Nsobre los reinos cercanos.
+Dialogue: 0,0:22:32.83,0:22:35.46,Gen_Main_Up,veldora,0000,0000,0000,,Es mi fin.
+Dialogue: 0,0:22:33.58,0:22:37.15,Gen_Main,diablo,0000,0000,0000,,La probabilidad de que suceda es baja,
+Dialogue: 0,0:22:38.21,0:22:42.04,Gen_Main,diablo,0000,0000,0000,,pero si se diera el caso,\Nme uniré a la refriega.
+Dialogue: 0,0:22:42.34,0:22:43.72,Gen_Main,diablo,0000,0000,0000,,No se preocupe.
+Dialogue: 0,0:22:44.05,0:22:45.66,Gen_Main,rimuru,0000,0000,0000,,Bien. Cuento contigo.
+Dialogue: 0,0:22:45.84,0:22:47.72,Gen_Main,rimuru,0000,0000,0000,,Infórmame si pasa algo.
+Dialogue: 0,0:22:47.89,0:22:51.72,Gen_Main,diablo,0000,0000,0000,,Sí, señor. Déjelo en mis manos, mi rey.
+Dialogue: 0,0:24:20.31,0:24:24.94,Cart_A_Tre,CARTEL,0000,0000,0000,,{\fad(500,0)\an5\fs11\bord1\blur1\3c&H191919&\pos(122.67,35.2)}Traducción: Iris de la Fuente y Nicolás Sepúlveda\NPautado: Iris de la Fuente\NEdición: Sergio Vaca\NControl de calidad: Nicolás Sepúlveda
+Dialogue: 0,0:24:25.19,0:24:25.89,Cart_Next,CARTEL,0000,0000,0000,,{\pos(320,85)\bord1\blur2}Próximo {\alpha&HFF&\t(184,184,\alpha&H00&)}episodio
+Dialogue: 0,0:24:25.40,0:24:28.26,Gen_Italics,raphael,0000,0000,0000,,Próximo episodio:\N"Los planes de los santos".
+Dialogue: 0,0:24:25.99,0:24:30.31,Cart_NextTitle,CARTEL,0000,0000,0000,,{\fad(0,0)\c&H2B2966&\3c&HC5DBE1&\bord1\clip(168.94,80.94,215.06,233.41)\t(0,500,\clip(167.06,80,457.41,233.41))\pos(311.53,112)}\hLos planes\h{\c&HBBDCE8&\3c&H1E2B6B&\bord0\alpha&HFF&\t(300,900,\alpha&H00&)} de los santos
